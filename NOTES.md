@@ -1,3 +1,6 @@
+# Resources
+[beejs guide to network programmong](https://beej.us/guide/bgnet/html/split/)
+
 # Socket
 Sockets are endpoints of a network that combines the IP address and the port of the server computer
 
@@ -5,4 +8,3 @@ Sockets are endpoints of a network that combines the IP address and the port of 
 - sockfd: spcket descriptor, an integer
 
 # POSIX (Portable Operating System Interface)
-learning
